@@ -2,7 +2,7 @@ body{
 	font-family: 'Maitree', serif;
 	font-weight: 200;
 }
-button.social-button {
+a.social-button {
 	background: none;
 	color: inherit;
 	border: none;
