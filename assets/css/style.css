@@ -71,13 +71,16 @@ a.social-button {
 	display: flex;
 	justify-content: center;
 }
-button.cta {
-	height: 8rem;
+a.cta {
+	    height: 8rem;
     width: 50rem;
     background-color: #f7e4b2;
     color: #163c43;
     font-size: 32px;
     border: none;
+    text-align: center;
+    padding-top: 1.5rem;
+    text-decoration: none;
 
     &:hover{
     	background-color: #163c43;
