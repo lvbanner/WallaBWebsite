@@ -1,6 +1,7 @@
 body{
 	font-family: 'Maitree', serif;
 	font-weight: 200;
+	min-height: 100vh;
 }
 a.social-button {
 	background: none;
@@ -21,7 +22,7 @@ a.social-button {
 }
 .background{
 	background: url("../img/bloodorange.png") no-repeat center top;
-	height: 780px !important;
+	height: 100vh;
 	background-size: cover;
 }
 .logo{
@@ -33,7 +34,7 @@ a.social-button {
 .overlay{
 	width: 100%;
 	background: #163c43aa;
-	height: 780px !important;
+	height:  100vh;
 }
 .headline-container{
 	width: 100%;
@@ -72,7 +73,7 @@ a.social-button {
 	justify-content: center;
 }
 a.cta {
-	    height: 8rem;
+	height: 8rem;
     width: 50rem;
     background-color: #f7e4b2;
     color: #163c43;
